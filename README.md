@@ -32,6 +32,7 @@ The user tries to guess one letter at a time.
 The computer draws a number of dashes equal to the number of letters in a word.
 If the user guesses a letter that appears in the word, the computer replaces the word with a corresponding hyphen.
 If the user is wrong his man starts hanging: 
+
   ________                    
      |     \ |            
              |
